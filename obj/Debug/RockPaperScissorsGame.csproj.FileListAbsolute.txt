@@ -1,0 +1,7 @@
+C:\Users\yendi\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csprojAssemblyReference.cache
+C:\Users\yendi\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+C:\Users\yendi\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe.config
+C:\Users\yendi\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe
+C:\Users\yendi\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.pdb
+C:\Users\yendi\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.exe
+C:\Users\yendi\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.pdb
